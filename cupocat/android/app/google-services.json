@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126822235030",
+    "project_id": "cupocat-f9657",
+    "storage_bucket": "cupocat-f9657.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126822235030:android:b7c1e9a5536581cb28fbb7",
+        "android_client_info": {
+          "package_name": "com.example.cupocat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY6LId0D8nVKK7RPNqw2xtzj8tbO8z3RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
